@@ -102,7 +102,7 @@ export default function PublicFooter() {
                 Phone
               </p>
 
-              <p className="mt-2 text-[#c7d0c9]">[ADMIN TO PROVIDE]</p>
+              <p className="mt-2 text-[#c7d0c9]">08028963739, 09157464134</p>
             </div>
 
             <div>
@@ -110,7 +110,7 @@ export default function PublicFooter() {
                 Email
               </p>
 
-              <p className="mt-2 text-[#c7d0c9]">[ADMIN TO PROVIDE]</p>
+              <p className="mt-2 text-[#c7d0c9]">olajummie24@gmail.com</p>
             </div>
 
             <div>
@@ -118,7 +118,7 @@ export default function PublicFooter() {
                 Address
               </p>
 
-              <p className="mt-2 text-[#c7d0c9]">[ADMIN TO PROVIDE]</p>
+              <p className="mt-2 text-[#c7d0c9]">CAC Bus-Stop, AIT Road, Kollington Bus-Stop, Alagbado, Lagos State.</p>
             </div>
           </div>
         </div>
